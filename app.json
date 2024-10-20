@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "AppTest1",
-    "slug": "AppTest1",
+    "name": "Forum_app",
+    "slug": "Forum_app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
